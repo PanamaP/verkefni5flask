@@ -22,7 +22,6 @@ db = fb.database()
 
 @app.route('/')
 def index():
-    db.child("user").push({"usr": "dsg", "pwd": "1234"})
     return render_template('index.html')
 
 
