@@ -6,7 +6,7 @@ Flask==1.1.1
 future==0.18.2
 gcloud==0.18.3
 googleapis-common-protos==1.51.0
-gunicorn==20.0.4
+gunicorn==23.0.0
 httplib2==0.17.0
 idna==2.9
 itsdangerous==1.1.0
