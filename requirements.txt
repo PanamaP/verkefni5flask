@@ -20,7 +20,7 @@ protobuf==3.18.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycryptodome==3.9.7
-PyInstaller==3.6
+PyInstaller==6.0.0
 Pyrebase4==4.3.0
 python-jwt==3.3.4
 pywin32-ctypes==0.2.0
