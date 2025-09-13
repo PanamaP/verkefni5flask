@@ -2,7 +2,7 @@ altgraph==0.17
 certifi==2024.7.4
 chardet==3.0.4
 Click==7.0
-Flask==1.1.1
+Flask==2.2.5
 future==1.0.0
 gcloud==0.18.3
 googleapis-common-protos==1.51.0
